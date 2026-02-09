@@ -1,0 +1,16 @@
+body {
+  background: burlywood;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.navigation-links {
+  justify-content: center;
+  color: green;
+  margin: 0 20px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
